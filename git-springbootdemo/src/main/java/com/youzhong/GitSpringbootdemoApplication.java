@@ -10,6 +10,4 @@ public class GitSpringbootdemoApplication {
 		SpringApplication.run(GitSpringbootdemoApplication.class, args);
 	}
 
-
-
 }
